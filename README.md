@@ -53,3 +53,19 @@ Install dependencies:
 
 ```bash
 pip install numpy pandas scikit-learn flask
+Bash
+python app.py
+
+
+
+
+### 3. Save करो
+
+**Ctrl + S**
+
+### 4. Git mein README add karo
+
+Terminal:
+
+```bash
+git add README.md
